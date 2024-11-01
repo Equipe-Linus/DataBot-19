@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este bot automatiza a extração de dados sobre COVID-19 usando a API da [**OWID Catalog**](https://docs.owid.io/projects/etl/api/covid/) e não de um CSV. Ele obtém dados atualizados, filtra-os para o Brasil, armazena as informações no Google Sheets e gera gráficos da evolução diária de casos e mortes. 
+Este bot automatiza a extração de dados sobre COVID-19 usando a API da [**OWID Catalog**](https://docs.owid.io/projects/etl/api/covid/). Ele obtém dados atualizados, filtra-os para o Brasil, armazena as informações no Google Sheets e gera gráficos da evolução diária de casos e mortes. 
 
 ## Funcionalidades
 
